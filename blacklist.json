@@ -1,0 +1,24 @@
+{
+  "domains": [
+    "gov-sa-login.com",
+    "abshr-secure.net",
+    "sda1a.gov.sa",
+    "tawakkalna.net"
+  ],
+  "keywords": [
+    "urgent",
+    "verify account",
+    "click here",
+    "password",
+    "reset"
+  ],
+  "phones": [
+    "+966512345678",
+    "+966599999999"
+  ],
+  "sms_samples": [
+    "Urgent: verify your account now",
+    "Click here to reset your password",
+    "Your Absher account is locked, login now"
+  ]
+}

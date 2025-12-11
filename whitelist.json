@@ -1,0 +1,24 @@
+{
+  "domains": [
+    "absher.sa",
+    "gov.sa",
+    "my.gov.sa",
+    "tawakkalna.sa"
+  ],
+  "emails": [
+    "noreply@absher.sa",
+    "support@tawakkalna.sa",
+    "info@sdaia.gov.sa",
+    "Training@sar.com.sa"
+  ],
+  "sms_senders": [
+    "ABSHE R",
+    "MOI",
+    "TAWAKKALNA"
+  ],
+  "phone_prefixes": [
+    "+9669200",
+    "+966800",
+    "+966199"
+  ]
+}
